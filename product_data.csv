@@ -1,0 +1,41 @@
+﻿product_id,product_name,description,product_category,unit_price,unit_cost
+P01,iPhone X,Apple iPhone X,Mobile Phone,699.99,633.45
+P02,Acer Nitro 5,Acer Nitro 5 w/ 500GB HDD,Laptop,1699.99,1436.96
+P03,Samsung S22 Ultra,Samsung S22 Ultra w/ 500GB storage,Mobile Phone,999.99,898.62
+P04,iPhone 12,Apple iPhone 12 w/ 125GB storage,Mobile Phone,899.99,780.31
+P05,Lightning Cable,Apple USB Lighting cable,Accessories,10,8.81
+P06,USB cable,General Type A USB cable,Accessories,9.99,8.84
+P07,Type C cable,Type C USB Cable,Accessories,10.99,8.34
+P08,Samsung A20,Samsung A20 w/ 32GB storage,Mobile Phone,79.99,75.81
+P09,HP Gaming 15,HP Pavillion Gaming 15 w/ 1TB storage,Laptop,1599.99,1241.92
+P10,Dell G5,Dell G series 15 Gaming Laptop w/ 1TB storage,Laptop,1800,1605.34
+P11,Dell G7,Dell G series 7 Gaming Laptop w/ 1TB storage,Laptop,2099.99,1573.07
+P12,Dell Charger 60w,Dell Charger 60w for laptops,Accessories,15.99,14.51
+P13,Dell Charger 135w,Dell Charger 135w for laptops,Accessories,18.99,16.56
+P14,HP Charger 60w,HP Charger 60w for laptops,Accessories,12.99,11.44
+P15,HP Charger 135w,HP Charger 135w for laptops,Accessories,21.99,18.87
+P16,Xbox 360 gamepad,Xbox 360 USB wire gamepad ,Accessories,15.6,14.65
+P17,Xbox 360 wireless gamepad,Xbox 360 USB wireless gamepad ,Accessories,18,14.81
+P18,Xbox 1 gamepad,Xbox 1 USB wireless gamepad,Accessories,45.5,32.78
+P19,Ucom USB gamepad,Ucom Generic single gamepad,Accessories,9.99,8.89
+P20,Ucom Dual-USB  gamepad,Ucom Generic double  gamepad,Accessories,12.65,10.22
+P21,Samsung S10,Samsung S10 w/ 64GB storage,Mobile Phone,679.99,633.06
+P22,Samsung S10+,Samsung S10+ w/ 64GB storage,Mobile Phone,799.99,707.58
+P23,Samsung S23,Samsung S23 w/ 500GB storage,Mobile Phone,1799.99,1702.35
+P24,iPhone XR,iPhone XR w/ 128GB storage,Mobile Phone,205,184.84
+P25,iPhone XS,iPhone XS w/ 128GB storage,Mobile Phone,199.99,164.25
+P26,iPhone 7+,iPhone 7+ w/ 64GB storage,Mobile Phone,125.5,92.85
+P27,Acer Aspire 5 ,Acer Aspire 5 A515-46-R3UB w/ 128GB SSD storage,Laptop,299.99,224.76
+P28,Apple Macbook Pro M2,Apple 2023 MacBook Pro Laptop M2 Pro chip w/ 1TB SSD storage,Laptop,2449,2243.17
+P29,Macbook Air 13.6,Apple 2022 MacBook Air Laptop with M2 chip w/ 500GB SSd storage,Laptop,979.99,760.28
+P30,Apple 35w Dual USB charger,Apple 35W Dual USB-C Port Compact Power Adapter,Accessories,59,46.03
+P31,Apple USB-C to Lightning cable,Apple USB-C to Lightning cable(1m),Accessories,19,16.09
+P32,Apple Magic Mouse,"Apple Magic Mouse: Wireless, Bluetooth, Rechargeable. Works with Mac or iPad; Multi-Touch Surface",Accessories,61.43,47.98
+P33,Lenovo IdeaPad Flex 5i,Lenovo - 2022 - IdeaPad Flex 5i - 2-in-1 Chromebook Laptop w/ 128GB SSD storage,Laptop,299.99,260.99
+P34,HP Pavillion 17,"2022 HP Pavilion 17 Laptop, 17.3 w/ 1TB storage",Laptop,649.99,583.45
+P35,ASUS TUF F15,ASUS TUF F15 Gaming Laptop w/ 512GB storage,Laptop,649.99,555.45
+P36,ASUS ROG Z13,ASUS ROG Flow Z13 (2022) Gaming Laptop Tablet w/ 1TB SSD storage,Laptop,1399,1084.58
+P37,MSI Gaming Laptop,MSI 15.6 FHD 144Hz Gaming Laptop w/ 500GB storage,Laptop,879,646.27
+P38,Samsung Galaxy S21 5G,Samsung Galaxy S21 5G w/ 128GB storage,Mobile Phone,289.99,238.49
+P39,SAMSUNG Galaxy Z Fold 4,SAMSUNG Galaxy Z Fold 4 Flex Mode w/ 256GB storage,Mobile Phone,1449.99,1263.5
+P40,OnePlus 11 5G,OnePlus 11 5G w/ 128GB storage,Mobile Phone,699.99,576.51
