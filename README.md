@@ -1,7 +1,7 @@
 # Instacart-Sales-Report-Analysis
 ## by Uchechukwu Okoronkwo
 ___
-![](images.png/logo.png)
+![](images/logo.png)
 ___
 # INTRODUCTION
 ___
@@ -18,7 +18,7 @@ ___
 # DATA MODELLING
 ___
 I specifically created a comprehensive database schema using the PostgreSQL to ensure proper organisation, efficiency and effective outcome. I created four specific tables and used the PostgreSQL to develop an ERD for the database making sure I established constraints to ensure the maintenance of data integrity.
-![](images.png/Creating%20ables.png)
+![](images/Creating%20ables.png)
 ___
 ![](images.png/Data%20Model.png)
 ___
